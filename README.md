@@ -1,6 +1,6 @@
 # Custom Memory Allocator (malloc, free, calloc, realloc)
 
-A simplified custom implementation of memory allocation functions in C, developed as part of an academic operating systems course.
+A simplified custom implementation of memory allocation functions in c++, developed as part of an academic operating systems course.
 
 ## Overview
 
